@@ -1,0 +1,91 @@
+[{
+      "id": "464d8e36-f45d-4522-a87a-497fa9d55020",
+      "name": "T-shirt",
+      "properties": {
+        "label": "textile",
+        "value": 5.01,
+        "unit": "Kg",
+        "context": {
+          "origin": "Europe",
+        }
+      },
+      "parent_id": "",
+      "created_at": "2020-04-29T12:50:08+00:00"
+      "modified_at": "2020-04-29T12:50:08+00:00"
+ },
+ {
+      "id": "b9d825c1-3d5d-4038-9cbb-b2e1f0aecf3b",
+      "name": "Cotton t-shirt",
+      "properties": {
+        "label": "textile, cotton",
+        "value": 5.5,
+        "unit": "Kg",
+        "context": {
+          "origin": "India",
+        }
+      },
+      "parent_id": "464d8e36-f45d-4522-a87a-497fa9d55020",
+      "created_at": "2020-04-29T13:51:08+00:00"
+      "modified_at": "2020-04-29T13:51:08+00:00"
+ },
+ {
+      "id": "92413efb-f9a4-4ef8-a16b-a45b048f036f",
+      "name": "Refurbished cotton t-shirt",
+      "properties": {
+        "label": "textile, cotton",
+        "value": 1.23,
+        "unit": "Kg",
+        "context": {
+          "origin": "India",
+        }
+      },
+      "parent_id": "b9d825c1-3d5d-4038-9cbb-b2e1f0aecf3b",
+      "created_at": "2020-04-29T13:51:08+00:00"
+      "modified_at": "2020-04-29T13:51:08+00:00"
+ },
+ {
+      "id": "485e2fc2-9245-42c7-998a-a8ef931bcbff",
+      "name": "Wool t-shirt",
+      "properties": {
+        "label": "textile, wool",
+        "value": 10.2,
+        "unit": "Kg",
+        "context": {
+          "origin": "Estonia",
+        }
+      },
+      "parent_id": "464d8e36-f45d-4522-a87a-497fa9d55020",
+      "created_at": "2020-04-29T13:52:08+00:00"
+      "modified_at": "2020-04-29T13:52:08+00:00"
+ },
+ {
+      "id": "daccc434-abb9-43e4-bd6e-371188611611",
+      "name": "Linnen t-shirt",
+      "properties": {
+        "label": "textile, linnen",
+        "value": 2.01,
+        "unit": "Kg",
+        "context": {
+          "origin": "Portugal",
+        }
+      },
+      "parent_id": "464d8e36-f45d-4522-a87a-497fa9d55020",
+      "created_at": "2020-04-29T13:53:08+00:00"
+      "modified_at": "2020-04-29T13:53:08+00:00"
+ }
+ {
+      "id": "8381a025-61fc-4479-b335-cc60b0b87b60",
+      "name": "Transport 1kg cotton T-shirts",
+      "properties": {
+        "label": "transport, cotton",
+        "value": 40.50,
+        "unit": "Kg",
+        "context": {
+            "medium": "air travel"
+        }
+      },
+      "parent_id": "",
+      "created_at": "2020-04-29T13:54:08+00:00"
+      "modified_at": "2020-04-29T13:54:08+00:00"
+ }
+]
