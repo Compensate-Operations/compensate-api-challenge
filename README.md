@@ -45,7 +45,7 @@ The small service must manage products, that is, via its interface a user should
 
 We would like you to build a very minimal service to manage a product listing with the following characteristics:
 
-- A RESTful interface to create, list and get products.
+- A RESTful interface to create, update and list products as well the information for a single product.
 - A specific endpoint to lookup a specific product.
 - A description of the API following [OpenAPI specification](https://github.com/OAI/OpenAPI-Specification).
 
